@@ -20,8 +20,6 @@ This program uses Python and SQLAlchemy ORM queries, Pandas, and Matplotlib to d
 
 * Results are plotted using the DataFrame `plot` method.
 
-  ![precipitation](Images/precipitation.png)
-
 * The program uses Pandas to print the summary statistics for the precipitation data.
 
 ### Station Analysis
